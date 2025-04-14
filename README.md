@@ -88,8 +88,8 @@ The dataset contains transactional records from an online UK-based retail store.
 
 ## 📄 Reports
 
-- 📘 [Jupyter Notebook: EDA_Retail_Analysis.ipynb](./EDA_Retail_Analysis.ipynb)
-- 📑 [PDF Summary Report: EDA_Report.pdf](./EDA_Report.pdf)
+- 📘 [Jupyter Notebook: EDA_Retail_Analysis.ipynb](./EDA_Retail)
+- 📑 [PDF Summary Report: EDA_Report.pdf](.https://github.com/Comhek0369/Exploratory-Data-Analysis-EDA-on-Olympics-Dataset/blob/main/Olympics.pdf)
 
 ---
 

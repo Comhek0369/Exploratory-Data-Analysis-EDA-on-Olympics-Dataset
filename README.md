@@ -7,14 +7,23 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on an onli
 ## 📁 Project Structure
 
 ├── EDA_Retail_Analysis.ipynb # Jupyter notebook with full EDA process
+
 ├── EDA_Report.pdf # PDF export of the notebook 
+
 ├── Screenshot (299).png # Pairplot of numerical features
+
 ├── Screenshot (300).png # Heatmap of feature correlation
+
 ├── Screenshot (301).png # Time series sales trend
+
 ├── Screenshot (302).png # Boxplot of Unit Prices
+
 ├── Screenshot (303).png # Top 10 countries by revenue
+
 ├── Screenshot (304).png # Product frequency distribution
+
 ├── Screenshot (305).png # Monthly sales breakdown
+
 ├── README.md # Project overview
 
 
@@ -88,7 +97,7 @@ The dataset contains transactional records from an online UK-based retail store.
 
 ## 📄 Reports
 
-- 📘 [Jupyter Notebook: EDA_Retail_Analysis.ipynb](./EDA_Retail)
+- 📘 [Jupyter Notebook: EDA_Retail_Analysis.ipynb](./checkpoint.ipynb)
 - 📑 [PDF Summary Report: EDA_Report.pdf](./Olympics.pdf)
 
 ---

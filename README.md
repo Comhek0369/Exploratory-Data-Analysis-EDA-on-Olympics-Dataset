@@ -86,12 +86,11 @@ The dataset contains transactional records from an online UK-based retail store.
 | Visualization | Screenshot |
 |---------------|------------|
 | 📌 Pairplot of numerical features | ![Screenshot 299](./Screenshot%20(299).png) |
-| 🔥 Correlation Heatmap | ![Screenshot 300](./Screenshot%20(300).png) |
-| 📉 Time Series Sales Trend | ![Screenshot 301](./Screenshot%20(301).png) |
-| 📦 Boxplot of Unit Prices | ![Screenshot 302](./Screenshot%20(302).png) |
-| 🌍 Top Countries by Revenue | ![Screenshot 303](./Screenshot%20(303).png) |
-| 📊 Product Frequency Distribution | ![Screenshot 304](./Screenshot%20(304).png) |
-| 📅 Monthly Sales Breakdown | ![Screenshot 305](./Screenshot%20(305).png) |
+| 🔥 Info. | ![Screenshot 300](./Screenshot%20(300).png) |
+| 📉 Countplot | ![Screenshot 303](./Screenshot%20(303).png) |
+| 📦 Histplot of Unit | ![Screenshot 304](./Screenshot%20(304).png) |
+| 📊 Groupby | ![Screenshot 303](./Screenshot%20(303).png) |
+| 📊 Year_Avg_Age | ![Screenshot 309](./Screenshot%20(309).png) |
 
 ---
 

@@ -22,7 +22,7 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on an onli
 
 ├── Screenshot (304).png # histplot()
 
-├── Screenshot (310).png # groupby()
+├── Screenshot (310).png # Median_Height()
 
 ├── README.md # Project overview
 
@@ -87,9 +87,9 @@ The dataset contains transactional records from an online UK-based retail store.
 |---------------|------------|
 | 📌 Pairplot of numerical features | ![Screenshot 299](./Screenshot%20(299).png) |
 | 🔥 Info. | ![Screenshot 300](./Screenshot%20(300).png) |
-| 📉 Countplot | ![Screenshot 303](./Screenshot%20(303).png) |
+| 📉 Countplot of Unit | ![Screenshot 303](./Screenshot%20(303).png) |
 | 📦 Histplot of Unit | ![Screenshot 304](./Screenshot%20(304).png) |
-| 📊 Groupby | ![Screenshot 310](./Screenshot%20(310).png) |
+| 📊 Median_height | ![Screenshot 310](./Screenshot%20(310).png) |
 | 📊 Year_Avg_Age | ![Screenshot 309](./Screenshot%20(309).png) |
 
 ---

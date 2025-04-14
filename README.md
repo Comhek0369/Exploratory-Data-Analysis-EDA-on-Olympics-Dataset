@@ -89,7 +89,7 @@ The dataset contains transactional records from an online UK-based retail store.
 | 🔥 Info. | ![Screenshot 300](./Screenshot%20(300).png) |
 | 📉 Countplot | ![Screenshot 303](./Screenshot%20(303).png) |
 | 📦 Histplot of Unit | ![Screenshot 304](./Screenshot%20(304).png) |
-| 📊 Groupby | ![Screenshot 303](./Screenshot%20(303).png) |
+| 📊 Groupby | ![Screenshot 310](./Screenshot%20(310).png) |
 | 📊 Year_Avg_Age | ![Screenshot 309](./Screenshot%20(309).png) |
 
 ---

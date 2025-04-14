@@ -12,17 +12,17 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on an onli
 
 ├── Screenshot (299).png # Pairplot of numerical features
 
-├── Screenshot (300).png # Heatmap of feature correlation
+├── Screenshot (300).png # .info()
 
-├── Screenshot (301).png # Time series sales trend
+├── Screenshot (301).png # .describe()
 
-├── Screenshot (302).png # Boxplot of Unit Prices
+├── Screenshot (302).png # isne().sum()
 
-├── Screenshot (303).png # Top 10 countries by revenue
+├── Screenshot (303).png # countplot()
 
-├── Screenshot (304).png # Product frequency distribution
+├── Screenshot (304).png # histplot()
 
-├── Screenshot (305).png # Monthly sales breakdown
+├── Screenshot (310).png # groupby()
 
 ├── README.md # Project overview
 
